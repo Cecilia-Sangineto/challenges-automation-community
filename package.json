@@ -1,0 +1,24 @@
+{
+  "name": "challenges-automation-community",
+  "version": "1.0.0",
+  "description": "Simple example of how to use chai js and mocha js",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecilia-Sangineto/challenges-automation-community.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "javascript"
+  ],
+  "author": "CeciliaSangineto",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
