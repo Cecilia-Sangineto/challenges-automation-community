@@ -1,0 +1,29 @@
+{
+  "name": "challenges-automation-community",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Uso de chai y mocha",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecilia-Sangineto/challenges-automation-community.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "javascript"
+  ],
+  "author": "CeciliaSangineto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cecilia-Sangineto/challenges-automation-community/issues"
+  },
+  "homepage": "https://github.com/Cecilia-Sangineto/challenges-automation-community#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
